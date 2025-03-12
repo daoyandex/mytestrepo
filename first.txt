@@ -1,3 +1,4 @@
 First string
 Second string
 Third str from github
+4th str in local repo - new-feature
